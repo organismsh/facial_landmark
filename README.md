@@ -1,2 +1,5 @@
-# facial_landmark
-plot facial landmarks with opencv and imutils library with python
+# Facial landmark plotting using :
+
+## 1. Opencv
+## 1. imutils
+## 1.python
