@@ -5,4 +5,4 @@
 ### .python
 
 
-![Input](/images/input.png)
+![Input](https://raw.githubusercontent.com/organismsh/facial_landmark/master/images/input.PNG)
